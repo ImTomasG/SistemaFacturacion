@@ -22,8 +22,6 @@
         public decimal PRECIO_PARCIAL { get; set; }
         public int ALUMBRADO_PUBLICO { get; set; }
         public decimal PRECIO_TOTAL { get; set; }
-
-        //Si no existe el contador
         public string MENSAJE_ERROR { get; set; }
 
     }

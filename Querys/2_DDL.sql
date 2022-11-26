@@ -1,3 +1,7 @@
+GO
+USE DB_FACTURACION
+GO
+
 -- Generado por Oracle SQL Developer Data Modeler 20.2.0.167.1538
 --   en:        2022-11-09 19:41:28 CST
 --   sitio:      SQL Server 2012

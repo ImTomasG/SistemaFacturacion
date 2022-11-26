@@ -1,3 +1,7 @@
+GO
+USE DB_FACTURACION
+GO
+
 ------------------------------------------------------ Regiones ----------------------------------------------------------------
 Insert Into Regiones
 (Id_Region, Nombre_Region)
